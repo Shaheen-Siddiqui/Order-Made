@@ -8,7 +8,6 @@ const App = () => {
 <header className='Header'>
         <div className="innerRound">
         <div className="ImgIcon">
-        
           <div className=""><img className='forH_w' src="https://i.pinimg.com/736x/8e/19/2f/8e192f3f6c11504bcd664c39d2fd0d78.jpg" alt="" /> </div>
           <p className='sayaStrong'><strong>Saya</strong> </p>
           <div className=""><i className='fas fa-shopping-cart'></i></div>
@@ -23,7 +22,7 @@ const App = () => {
 <div className="EmpatydiV"></div>
   <div className="OuterOrderMeds">
   <div className="OrderMedsFild"><p className='textSet'>ORDER MEDS</p> </div>
-<div className="OrderMedsFild"><p className='textSet'>Your Prescription Transcribe</p> </div>
+  <div className="OrderMedsFild"><p className='textSet'>Your Prescription Transcribe</p> </div>
 </div>
 
 <div className="ProtienOuter">
@@ -50,6 +49,7 @@ const App = () => {
   <div className="forTrioH_W"><img className='forImgH_W' src="https://pixy.org/download/4326546/" alt="heartImage" /> <p className='SecPera'>HEAT DISEASE</p></div>
   <div className="forTrioH_W"><img className='forImgH_W' src="https://cdn.mos.cms.futurecdn.net/NA8RHrNKQYk4PNs9YzUZY9-320-80.jpg" alt="" /> <p className='SecPera'>DIABLETES</p> </div>
 </div>
+
  <div className="body1">
       <img src="https://m.media-amazon.com/images/I/61PF3g4c8NL._SL1100_.jpg" alt="" className='img_body' />
   </div>
@@ -60,12 +60,10 @@ const App = () => {
   <div className="ForPera">   <p className='glu-title'>Glucometer Digital</p>
     <p>(Blood Glucose Monitor|Test strips <br /> | control Solution | Sterile lancets |<br /> Lancing Device)</p>
     <p className='Rupees'>Rs. 500/- </p>
-    </div>
-
+  </div>
+</div>
 </div>
 
-
-</div>
 <div className="FourGroupdiv">
  <img className='ImageLast' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrWcvGNfNQmM8ohqYWwUF4SsStGkY3E8nE8g&usqp=CAU" alt="" />
  <img className='ImageLast' src="https://www.ubuy.co.in/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNzFubnhNN2tnUEwuX0FDX1NMMTUwMF8uanBn.jpg" alt="" />
