@@ -1,0 +1,316 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body {
+    background-color: #e2e8f0;
+    font-family: serif;
+    position: relative;
+    z-index: -1;
+    height: 154rem;
+}
+
+.img_body {
+    position: relative;
+    z-index: -1;
+    top: -15em;
+    width: 50rem;
+    left: 29rem;
+    height: 30rem;
+}
+
+.Header {
+    height: 14rem;
+    width: auto;
+    border: 0.4rem solid #0ea5e9;
+}
+
+.innerRound {
+    background-color: #1e3a8a;
+    height: 13.2rem;
+    width: auto;
+    border-top-right-radius: 2rem;
+    border-top-left-radius: 2rem;
+}
+
+.fa-shopping-cart {
+    font-size: 3rem;
+    color: white;
+    position: relative;
+    right: 2rem;
+}
+
+.ImgIcon {
+    height: 5rem;
+    position: relative;
+    top: 1.7rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem;
+}
+
+.sayaStrong {
+    margin-right: 65rem;
+    padding: 1rem;
+    text-transform: capitalize;
+    font-size: 1.4rem;
+    color: aliceblue;
+}
+
+.forH_w {
+    height: 4rem;
+    width: 4rem;
+    border-radius: 3rem;
+}
+
+.sticy_image {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.image1 {
+    width: 60rem;
+    height: 27rem;
+}
+
+.Inputfild {
+    background-color: white;
+    height: 3.5rem;
+    display: flex;
+    width: 75rem;
+    justify-content: center;
+    align-items: center;
+    margin-left: 2.5rem;
+    margin-top: -4.5rem;
+    color: gray;
+    border-radius: 0.8rem;
+}
+
+.innerinput {
+    height: 3.5rem;
+    width: 70rem;
+    border-radius: 4rem;
+    padding: 1rem;
+    border: none;
+    outline: none;
+    font-size: 1.3rem;
+}
+
+.EmpatydiV {
+    height: 20rem;
+    width: 78rem;
+    background-color: #d1d5db;
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+
+.OrderMedsFild {
+    width: 78rem;
+    background-color: white;
+    height: 3.5rem;
+    margin-top: 1rem;
+    border-radius: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+}
+
+.OuterOrderMeds {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 0.5rem;
+}
+
+.wideTD {
+    width: 27rem;
+}
+
+.ProtienOuter {
+    border-radius: 2rem;
+    width: 78rem;
+    height: 38rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    display: flex;
+    font-size: 2rem;
+    justify-content: space-between;
+}
+
+.OuterDoubleDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.outerImageDiv {
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    flex-direction: column;
+    width: 52.8rem;
+    background-color: white;
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+
+}
+
+.firstP {
+    padding: 1.9rem;
+}
+
+.forH__W {
+    height: 15rem;
+    width: 25rem;
+}
+
+.FirstImage {
+    height: 33rem;
+    width: 40rem;
+    border-right-color: aqua;
+}
+
+.PeradeS {
+    font-size: 1.3rem;
+    text-align: center;
+}
+
+.inerDoubleDiv {
+    background-color: white;
+    border-top-left-radius: 6rem;
+    border-top-right-radius: 2rem;
+}
+
+.inrDoubleSec {
+    margin-top: 0.2rem;
+    height: 19.4rem;
+    border-bottom-right-radius: 1rem;
+    background-color: white;
+
+}
+
+.SecImage {
+    border-top-right-radius: 1rem;
+
+}
+
+.ThirdImage {
+    border-bottom-right-radius: 1rem;
+
+}
+
+.trioHandler {
+    height: 26rem;
+    margin-top: 1rem;
+    display: flex;
+    /* background-color: #1e3a8a; */
+
+
+}
+
+.forTrioH_W {
+    height: 25rem;
+    width: 47rem;
+    background-color: white;
+    margin: 1rem;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.SecPera {
+    height: 2rem;
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.forImgH_W {
+    height: 18rem;
+    width: 19rem;
+    border-radius: 9rem;
+    border: 0.1rem solid #1e3a8a;
+    /* padding-top: 1rem; */
+
+}
+
+.outerMain {
+    background-color: white;
+    height: 25rem;
+    position: relative;
+    top: -28rem;
+    width: 78rem;
+    margin-left: 1rem;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+
+    display: flex;
+
+}
+
+.perastyling {
+    width: 27em;
+    margin-left: 1rem;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    height: 25rem;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    /* justify-content: center; */
+    font-size: 1.7rem;
+}
+
+.LeftSideImg {
+    height: 25rem;
+    width: 40rem;
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+}
+
+.ForPera {
+    margin-left: 6rem;
+    margin-top: 5rem;
+}
+
+.glu-title {
+    font-size: 2.5rem;
+    color: #1e3a8a;
+    padding: 0.5rem;
+}
+
+.Rupees {
+    color: #1e3a8a;
+    margin-top: 6rem;
+    font-weight: bold;
+    padding: 1rem;
+    font-size: 2rem;
+
+}
+
+.FourGroupdiv {
+    position: relative;
+    top: -28.2rem;
+    height: 15rem;
+    width: 78rem;
+    margin-left: 1rem;
+    margin-top: 0.3rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.ImageLast {
+    width: 15.4rem;
+    height: 15rem;
+    margin: 0.1rem;
+}
