@@ -1,4 +1,4 @@
-/* * {
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -209,11 +209,11 @@
     height: 26rem;
     margin-top: 1rem;
     display: flex;
-    /* background-color: #1e3a8a; }*/
+    background-color: #1e3a8a; }
 
 
 
-/* .forTrioH_W {
+.forTrioH_W {
     height: 25rem;
     width: 47rem;
     background-color: white;
@@ -239,10 +239,10 @@
     width: 19rem;
     border-radius: 9rem;
     border: 0.1rem solid #1e3a8a;
-    /* padding-top: 1rem;} */
+     padding-top: 1rem;}
 
 
-/* 
+
 .outerMain {
     background-color: white;
     height: 25rem;
@@ -311,10 +311,10 @@
     width: 15.4rem;
     height: 15rem;
     margin: 0.1rem;
-}  */
+} 
 
 /* ***************************** MEDIA QUARYES OF THE PROJECT*************************** */
-/* @media (max-width:1024px) {
+ @media (max-width:1024px) {
 
     html,
     body {
@@ -371,4 +371,3 @@
         width: 66rem;
     }
 }
- */ 
